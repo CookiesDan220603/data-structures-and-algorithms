@@ -1,0 +1,5 @@
+Phiên bản mới nhất:
+1.1 - 30/11/2022 - Sửa kết quả file output7.txt trong thư mục expected_output.
+
+Các phiên bản cũ:
+1.0 - 29/11/2022 - Đề phiên bản đầu tiên.
